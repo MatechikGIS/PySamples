@@ -1,4 +1,4 @@
-Matechik_Assignment6b ReadMe
+Assignment_ToDo.py ReadMe
 Chris Matechik
 July 2021
 
